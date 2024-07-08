@@ -1,0 +1,26 @@
+.cake{
+    width: 700px;
+    height: 700px;
+    padding-left: 10cm;
+}
+.head{
+    width: 100%;
+    height: 70px;
+}
+.a{
+    padding-left: 11cm;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.b{
+    padding-left: 5cm;
+}
+h3{
+    margin-top: 30px;
+    font-size: 40px;
+}
+.ing{
+    text-decoration: underline; 
+    margin-top: 30px; 
+    margin-bottom: 30px;
+}
